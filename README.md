@@ -37,13 +37,12 @@ This project demonstrates clean architecture, modularity, and real-world IT auto
 - Comprehensive error handling and logging
 
 ---
+*Shows the tool running successfully, user selecting "Both" report format, and successful PDF generation using Opera GX.*
 
 <img width="454" height="73" alt="image" src="https://github.com/user-attachments/assets/f9474ae0-04e0-4aa5-b645-71c9f1067a53" />
 
 
-
-
-
+HTML report displaying overall health score (80/100), performance metrics, disk health analysis, security status, and critical event logs
 <img width="911" height="894" alt="image" src="https://github.com/user-attachments/assets/1ecbcdd3-20fd-488a-b3aa-37f8c92d9de7" />
 
 
