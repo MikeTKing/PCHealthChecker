@@ -41,6 +41,7 @@ This project demonstrates clean architecture, modularity, and real-world IT auto
 <img width="454" height="73" alt="image" src="https://github.com/user-attachments/assets/f9474ae0-04e0-4aa5-b645-71c9f1067a53" />
 
 
+
 <img width="227" height="224" alt="image" src="https://github.com/user-attachments/assets/312de741-e800-40d1-9557-4c43b6de1f27" />
 
 
