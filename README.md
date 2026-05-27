@@ -13,7 +13,6 @@
 
 IT and Helpdesk technicians waste valuable time **manually checking** slow or problematic machines. This tool automates the entire initial diagnostic process and generates professional reports for faster troubleshooting and better documentation.
 
-This project demonstrates clean architecture, modularity, and real-world IT automation skills.
 
 | File / Folder                    | Purpose |
 |-------------------------------|--------|
