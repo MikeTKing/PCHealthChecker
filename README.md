@@ -5,7 +5,7 @@
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![PDF](https://img.shields.io/badge/PDF-FF0000?style=for-the-badge&logo=adobeacrobat&logoColor=white)
 
-**A professional automated diagnostic tool built to help IT Support and Helpdesk teams quickly assess Windows PC health.**
+**A  automated diagnostic tool built to help IT Support and Helpdesk teams quickly assess Windows PC health.**
 
 ---
 
