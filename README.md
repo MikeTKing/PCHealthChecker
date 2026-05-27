@@ -37,8 +37,8 @@ This project demonstrates clean architecture, modularity, and real-world IT auto
 - Comprehensive error handling and logging
 
 ---
-*Shows the tool running successfully, user selecting "Both" report format, and successful PDF generation using Opera GX.*
 
+User-friendly prompt allowing choice between HTML, PDF, or Both formats
 <img width="454" height="73" alt="image" src="https://github.com/user-attachments/assets/f9474ae0-04e0-4aa5-b645-71c9f1067a53" />
 
 
@@ -46,9 +46,10 @@ HTML report displaying overall health score (80/100), performance metrics, disk 
 <img width="911" height="894" alt="image" src="https://github.com/user-attachments/assets/1ecbcdd3-20fd-488a-b3aa-37f8c92d9de7" />
 
 
+*Shows the tool running successfully, user selecting "Both" report format, and successful PDF generation using Opera GX.*
 <img width="477" height="122" alt="image" src="https://github.com/user-attachments/assets/7a49e5e5-b901-45ff-8343-83ed78deca9b" />
 
-
+Detailed logging of each step including PDF conversion success, demonstrating robust error handling and transparency.
 <img width="746" height="141" alt="image" src="https://github.com/user-attachments/assets/51bfc5c0-f775-47e0-be00-ed507f6848f9" />
 
 
