@@ -38,15 +38,19 @@ This project demonstrates clean architecture, modularity, and real-world IT auto
 
 ---
 
-## Technologies & Skills Demonstrated
+<img width="454" height="73" alt="image" src="https://github.com/user-attachments/assets/f9474ae0-04e0-4aa5-b645-71c9f1067a53" />
 
-- **PowerShell Scripting** (Advanced)
-- **WMI / CIM** queries for hardware & OS data
-- **Modular Code Design** (separation of concerns)
-- **Error Handling & Logging**
-- **HTML + CSS** report generation
-- **Headless Browser** automation for PDF export
-- Windows internals knowledge (Event Logs, Security Center, etc.)
+
+<img width="227" height="224" alt="image" src="https://github.com/user-attachments/assets/312de741-e800-40d1-9557-4c43b6de1f27" />
+
+
+<img width="911" height="894" alt="image" src="https://github.com/user-attachments/assets/1ecbcdd3-20fd-488a-b3aa-37f8c92d9de7" />
+
+
+<img width="477" height="122" alt="image" src="https://github.com/user-attachments/assets/7a49e5e5-b901-45ff-8343-83ed78deca9b" />
+
+
+
 
 ---
 
