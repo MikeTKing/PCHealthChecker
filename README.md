@@ -50,3 +50,14 @@ IT and Helpdesk technicians waste valuable time **manually checking** slow or pr
 ---
 
 ## Repository Structure
+
+PCHealthChecker/
+├── PCHealthChecker.ps1
+├── README.md
+├── Reports/                     # Generated reports (HTML & PDF)
+├── Logs/                        # Log files
+├── modules/
+│   ├── SystemDiagnostics.psm1
+│   ├── ReportGenerator.psm1
+│   └── Utils.psm1
+└── .gitignore
